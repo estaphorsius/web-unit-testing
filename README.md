@@ -1,2 +1,2 @@
 # web-unit-testing
-Playground for web development using TypeScript &amp; JavaScript
+Playground for web development using TypeScript, JavaScript &amp; Aurelia.
