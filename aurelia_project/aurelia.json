@@ -146,6 +146,14 @@
             "resources": [
               "css/bootstrap.css"
             ]
+          },
+          {
+            "name": "toastr",
+            "path": "../node_modules/toastr",
+            "main": "toastr.js",
+            "resources":[
+              "build/toastr.css"
+            ]
           }
         ]
       }
