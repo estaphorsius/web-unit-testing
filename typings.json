@@ -1,0 +1,12 @@
+{
+  "name": "bether-net-site",
+  "dependencies": {
+    "chai": "registry:npm/chai#3.5.0+20160723033700",
+    "sinon": "registry:npm/sinon#1.16.0+20160723033700"
+  },
+  "globalDependencies": {
+    "jquery": "registry:dt/jquery#1.10.0+20160929162922",
+    "karma": "registry:dt/karma#0.13.9+20160811111312",
+    "mocha": "registry:dt/mocha#2.2.5+20160720003353"
+  }
+}
